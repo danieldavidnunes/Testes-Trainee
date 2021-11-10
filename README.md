@@ -13,7 +13,7 @@ Os testes podem ser sorteados e deverão seguir as seguintes regras:
 
 ## Teste 1
 
-Crie uma tela de login que acesse uma API que por sua vez acessa o banco de dados e valida usuário e senha, e caso sejam válidos, redirecione à uma próxima página com apenas um texto "Você está logado". Pelo menos 3 usuários válidos.
+Crie uma tela de login que acesse uma API que por sua vez acessa o banco de dados e valida usuário e senha, e caso sejam válidos, redirecione à uma próxima página com apenas um texto "Você está logado" e o nome completo do usuário e setor. Pelo menos 3 usuários válidos.
 
 ## Teste 2
 
