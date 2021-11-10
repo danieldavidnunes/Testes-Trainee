@@ -30,6 +30,6 @@ Mescle os Testes 1 e 2 em único projeto e faça acontecer!
  
  ```
 
-| Referências | README |
+| Referências | Link |
 | ------ | ------ |
 | Editor de Readme.MD | [https://dillinger.io/] |
